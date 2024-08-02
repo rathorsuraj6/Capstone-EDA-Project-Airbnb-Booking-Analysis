@@ -14,6 +14,7 @@ Through this process, we were able to uncover trends and relationships in the da
 The observations and insights we identified through this process will be useful for future analysis and decision-making related to Airbnb. and also Our analysis provides useful information for travelers and hosts in the city.
 
 **Problem Statements**
+
 What are the most popular neighborhoods for Airbnb rentals in New York City? How do prices and availability vary by neighborhood?
 
 How has the Airbnb market in New York City changed over time? Have there been any significant trends in terms of the number of listings, prices, or occupancy rates?
@@ -39,6 +40,7 @@ Find also best location listing/property location for Hosts.
 Find Price variations in NYC Neighborhood groups.
 
 **Conclusion**
+
 Manhattan and Brooklyn have the highest demand for Airbnb rentals, as evidenced by the large number of listings in these neighborhoods. This could make them attractive areas for hosts to invest in property.
 
 Manhattan is world-famous for its parks, museums, buildings, town, liberty, gardens, markets, island and also its substantial number of tourists throughout the year ,it makes sense that demand and price both high.
